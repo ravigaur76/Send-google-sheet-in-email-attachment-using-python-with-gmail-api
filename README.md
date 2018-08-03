@@ -24,3 +24,5 @@ To run this script, you'll require:
 #### Step 2 : Run the following command to install the library using pip:
 `pip install --upgrade google-api-python-client oauth2client`
 
+#### Step 3 : Fill required data in send_email.py and run send_email.py
+
